@@ -20,5 +20,7 @@ namespace MVCStudy.Models
         public string StandardName { get; set; }
 
         public string StudClass { get; set; }
+
+        public string StudDiv { get; set; }
     }
 }

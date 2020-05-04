@@ -21,6 +21,6 @@ namespace MVCStudy.Models
 
         public string StudClass { get; set; }
 
-        public string StudDiv { get; set; }
+        public string Stud { get; set; }
     }
 }

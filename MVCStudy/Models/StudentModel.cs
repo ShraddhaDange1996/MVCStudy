@@ -18,5 +18,7 @@ namespace MVCStudy.Models
     {
         public int StandardId { get; set; }
         public string StandardName { get; set; }
+
+        public string StudClass { get; set; }
     }
 }
